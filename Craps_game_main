@@ -1,6 +1,5 @@
 #Create a Craps game
 import random
-
 # Set variables for score counting
 i = 0
 score = 0
